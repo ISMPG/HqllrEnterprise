@@ -39,9 +39,3 @@ HqllrEnterprise is the bridge between personal sovereignty and organisational kn
 ## Community
 - Feedback and RFCs welcome in [Discussions](../../discussions).  
 - Contact us for enterprise partnership enquiries.
-
----
-
-## License
-- Preview / roadmap content only.  
-- Enterprise deployments will require commercial licensing.
